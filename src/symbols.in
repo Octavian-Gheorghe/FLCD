@@ -1,0 +1,12 @@
+x 42
+y 'c'
+message 'Hello, World!'
+count 100
+flag 'Y'
+tempVar temp_value
+name 'John'
+num -256
+letter 'A'
+greeting 'Good morning!'
+identifier example_identifier
+floater -256.34
